@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904179104790",
+    "firebase_url": "https://kiranavendor.firebaseio.com",
+    "project_id": "kiranavendor",
+    "storage_bucket": "kiranavendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904179104790:android:a2ff4ddac27638a9",
+        "android_client_info": {
+          "package_name": "in.munshig.kiranavendors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904179104790-342t6epv8418ha11036m8877qpc347rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbOm9CBtEQnuBXRfhDSGWhnfxZoiDkIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904179104790-342t6epv8418ha11036m8877qpc347rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
